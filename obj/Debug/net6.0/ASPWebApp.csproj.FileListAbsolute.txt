@@ -37,3 +37,12 @@ C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebAp
 C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebApp\obj\Debug\net6.0\ASPWebApp.pdb
 C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebApp\obj\Debug\net6.0\ASPWebApp.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebApp\obj\Debug\net6.0\ref\ASPWebApp.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebApp\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebApp\bin\Debug\net6.0\Smart.Blazor.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\ASPWebApp\bin\Debug\net6.0\System.IO.Pipelines.dll
