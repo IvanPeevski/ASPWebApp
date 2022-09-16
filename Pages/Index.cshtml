@@ -1,0 +1,19 @@
+﻿@page
+<script src="~/jqwidgets/jqxbuttons.js"></script>
+<script src="~/jqwidgets/jqxscrollbar.js"></script>
+<script src="~/jqwidgets/jqxlistbox.js"></script>
+<script src="~/jqwidgets/jqxdropdownlist.js"></script>
+<script src="~/jqwidgets/jqxdatatable.js"></script>
+@model IndexModel
+@{
+    ViewData["Title"] = "ASP .NET MVC DataTable Example";
+}
+<jqx-data-table sortable="true" width="850" source="Model.Clients">
+    <jqx-data-table-columns>
+        <jqx-data-table-column dataField="Name" width="200" text="Name"></jqx-data-table-column>
+        <jqx-data-table-column dataField="Balance" width="150"></jqx-data-table-column>
+        <jqx-data-table-column dataField="City" width="150"></jqx-data-table-column>
+        <jqx-data-table-column dataField="Country"></jqx-data-table-column>
+        <jqx-data-table-column dataField="LastOrder"></jqx-data-table-column>
+    </jqx-data-table-columns>
+</jqx-data-table>
